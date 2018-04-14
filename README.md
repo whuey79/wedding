@@ -7,4 +7,4 @@ Previously hosted on Dreamhost
 
 URL (GH Pages): http://whuey79.github.io/wedding/
 
-![Screenshot](/images/screenshot_website.png)
+![Screenshot](/images/website_screenshot.png)
